@@ -1,0 +1,66 @@
+
+.terbang {
+position: fixed;
+width: 152px;
+height: 40px;
+bottom: 0px;
+left: 13px;
+background-color: #25d366;
+color: #FFF;
+border-radius:5px 5px 0px 0px;
+text-align: left;
+font-size: 27px;
+box-shadow: 2px 2px 3px #999;
+z-index: 100;
+}
+
+@media screen
+  and (min-device-width: 1025px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+.text-wa {
+font-size:15px;
+position:relative;
+color:whitesmoke;
+margin-left:10px;
+text-align:right;
+top:-5px;
+}		
+.melayang{
+	margin-top:8px;
+	margin-left:25px;
+}
+}
+
+
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 580px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	.terbang {
+position: fixed;
+width: 65px;
+height: 65px;
+bottom: 17px;
+left: 15px;
+background-color: #25d366;
+color: #FFF;
+border-radius: 10px;
+text-align: center;
+font-size: 30px;
+box-shadow: 2px 2px 3px #999;
+z-index: 100;
+	}
+.text-wa {
+	font-size:15px;
+	position:relative;
+	color:white;
+	margin-left:15px;
+	text-align:right;
+	top:-5px;
+	display:none;
+}
+.melayang{
+	margin-top:17px;
+}
+}
