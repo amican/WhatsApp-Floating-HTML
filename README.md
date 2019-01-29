@@ -7,7 +7,7 @@ Whatsapp icon using Font Awesome 4.5.0, work on many mobile device.
       <head> ....code here...</head>
 
 You can change values floating icon to left or right in stylesheet.css
-    .terbang {
+            .terbang {
 position: fixed;
 width: 152px;
 height: 40px;
