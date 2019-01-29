@@ -6,5 +6,14 @@ Whatsapp icon using Font Awesome 4.5.0, work on many mobile device.
 
 You can change values floating icon to left or right in CSS.
 
-preview link
+preview
+### Desktop Version
+![](https://github.com/amican/WhatsApp-Floating-HTML/blob/master/desktop.png)
+
+### Mobile Version
+![](https://github.com/amican/WhatsApp-Floating-HTML/blob/master/mobile-responsive.png)
+
+### Preview Link
 https://kitas.id
+
+
